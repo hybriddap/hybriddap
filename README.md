@@ -31,9 +31,9 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
 
 <hr/><h3 align="left">📊 My Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hybriddap&show_icons=true&locale=en&layout=compact" alt="hybriddap" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hybriddap&show_icons=true&locale=en" alt="hybriddap" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hybriddap&" alt="hybriddap" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hybriddap&show_icons=true&locale=en&layout=compact&theme=gotham" alt="hybriddap" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hybriddap&show_icons=true&locale=en&theme=gotham" alt="hybriddap" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hybriddap&theme=dark" alt="" /></p>
 
 <hr/><h3 align="center">🏆 My Achievements:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hybriddap" alt="hybriddap" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hybriddap&theme=darkhub" alt="hybriddap" /></a> </p>
