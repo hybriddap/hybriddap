@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Dan⚡</h1>
-<h3 align="center">A passionate 20 yr old software developer based on the Gold Coast Australia</h3>
+<h3 align="center">A passionate 21 yr old software developer based on the Gold Coast Australia</h3>
 
 
 - 🌱 I’m currently learning **Different Web App Frameworks**
