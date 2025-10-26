@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Different Web App Frameworks**
 
-- 👨‍💻 Most of my projects are available at [My Personal Website](www.***REMOVED***.dev)
+- 👨‍💻 Most of my projects are available at [My Personal Website](https://www.***REMOVED***.dev)
 
 - 📫 How to reach me *****REMOVED***@gmail.com**
 
