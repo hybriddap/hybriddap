@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Different Web App Frameworks**
 
-- 👨‍💻 Most of my projects are available at [https://hybriddap.github.io/dapswebsite/projects.html](https://hybriddap.github.io/dapswebsite/projects.html)
+- 👨‍💻 Most of my projects are available at [My Personal Website](www.***REMOVED***.dev)
 
 - 📫 How to reach me *****REMOVED***@gmail.com**
 
