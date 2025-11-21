@@ -1,12 +1,10 @@
 <h1 align="center">Hello, I'm Dan⚡</h1>
-<h3 align="center">A passionate 21 yr old software developer based on the Gold Coast Australia</h3>
+<h3 align="center">A passionate 21 yr old software developer based in Australia</h3>
 
 
-- 🌱 I’m currently learning **Different Web App Frameworks**
+- 🌱 I’m currently learning **Game Dev**
 
-- 👨‍💻 Most of my projects are available at [My Personal Website](https://www.***REMOVED***.dev)
-
-- 📫 How to reach me *****REMOVED***@gmail.com**
+- 📫 How to reach me **dlsmanaging@gmail.com**
 
 - 🔭 Fun fact **I love playing Football as well!**
 
